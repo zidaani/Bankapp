@@ -15,6 +15,7 @@
 @keyframes hideSweetAlert {
   0% {
     transform: scale(1);
+    #just a comment
   }
   100% {
     transform: scale(0.5);
