@@ -1,0 +1,6 @@
+[12-Apr-2019 16:22:41 America/New_York] PHP Notice:  Undefined variable: depcheck in /home/focufyht/public_html/bank/users/include/withdrawal.php on line 36
+[12-Apr-2019 16:22:41 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/focufyht/public_html/bank/users/include/withdrawal.php on line 36
+[12-Apr-2019 16:22:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/focufyht/public_html/bank/users/include/withdrawal.php on line 37
+[12-Apr-2019 16:23:11 America/New_York] PHP Notice:  Undefined variable: depcheck in /home/focufyht/public_html/bank/users/include/withdrawal.php on line 36
+[12-Apr-2019 16:23:11 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/focufyht/public_html/bank/users/include/withdrawal.php on line 36
+[12-Apr-2019 16:23:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/focufyht/public_html/bank/users/include/withdrawal.php on line 37

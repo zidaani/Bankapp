@@ -1,0 +1,15 @@
+<option value="Non-Resident">Non-Resident</option>
+<option value="Volta hall">Volta hall</option>
+<option value="Commonwealth hall">Commonwealth hall</option>
+<option value="Legon Hall">Legon Hall </option>
+<option value="Akuafo hall">Akuafo hall</option>
+<option value="Jean Nelson">Jean Nelson</option>
+<option value="Limann">Limann</option>
+<option value="TF">TF</option>
+<option value="Pentagon">Pentagon </option>
+<option value="Great hall">Great hall</option>
+<option value="Mensah Sarbah hall">Mensah Sarbah hall</option>
+<option value="Elizabeth Sey hall">Elizabeth Sey hall</option>
+<option value="Alexander Kwapong hall">Alexander Kwapong hall</option>
+<option value="Graduate school">Graduate school</option>
+<option value="Jubilee hall">Jubilee hall</option>
